@@ -1,3 +1,12 @@
+body{
+    width: available;
+    height: available;
+}
+
+.container{
+    width: available;
+    height: available;
+}
 .rightpane{
     width: available;
     height: available;
