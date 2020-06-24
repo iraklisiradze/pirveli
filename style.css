@@ -1,26 +1,16 @@
-body{
-    width: available;
-    height: available;
+header .name {
+    text-align: center;
+    font-size: xx-large;
 }
-
-.container{
-    width: available;
-    height: available;
+.tagline {
+    font-style: italic;
+    text-align: center;
 }
-.rightpane{
-    width: available;
-    height: available;
-    position: relative;
-    margin-left: 75%;
-    background-color: yellow;
-    border-collapse: collapse;
+header .profile {
+    width: 50%;
+    margin: 1rem 25%;
 }
-.leftpane{
-    width: 25%;
-    min-width: 350px;
-    height: available;
-    min-height: 400px;
-    float: left;
-    background-color: rosybrown;
-    border-collapse: collapse;
+header .blurb {
+    font-size: 0.75rem;
+    text-align: center;
 }
