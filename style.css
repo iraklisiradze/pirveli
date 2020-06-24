@@ -1,4 +1,4 @@
-header .name {
+.name {
     text-align: center;
     font-size: xx-large;
 }
@@ -6,11 +6,11 @@ header .name {
     font-style: italic;
     text-align: center;
 }
-header .profile {
+.profile {
     width: 50%;
     margin: 1rem 25%;
 }
-header .blurb {
+.blurb {
     font-size: 0.75rem;
     text-align: center;
 }
