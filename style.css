@@ -3,6 +3,12 @@ main {
     width: 80%;
     padding: 1rem;
 }
+.posted-on {
+    font-style: italic;
+    font-size: 0.8rem;
+    text-align: right;
+    margin-bottom: 1rem;
+}
 body {
     display: flex;
     font: 1em "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -36,10 +42,5 @@ body {
     font-size: 0.9rem;
     border-left: 1rem solid #999298;
 }
-.posted-on {
-    font-style: italic;
-    font-size: 0.8rem;
-    text-align: right;
-    margin-bottom: 1rem;
-}
+
 
