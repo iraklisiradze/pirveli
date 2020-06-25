@@ -2,20 +2,20 @@
     text-align: center;
     font-size: xx-large;
 }
-header .photo {
+.photo {
     width: 50%;
     margin: 1rem 25%;
 }
-header .photos qvesh {
+ .photos qvesh {
     font-style: italic;
     text-align: center;
 }
 
-header .biographia {
+ .biographia {
     font-size: 0.75rem;
     text-align: center;
 }
-header .follow {
+ .follow {
     background-color: rgba(123,115,209,0.35);
     padding: 0.3rem;
     padding-left: 0.25rem;
@@ -23,3 +23,10 @@ header .follow {
     font-size: 0.9rem;
     border-left: 1rem solid #999298;
 }
+.posted-on {
+    font-style: italic;
+    font-size: 0.8rem;
+    text-align: right;
+    margin-bottom: 1rem;
+}
+
