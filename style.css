@@ -1,23 +1,19 @@
 .pirvelia {
     display: flex;
-    align-items:flex-start;
-       
+    align-items:center;       
   }
   .name {
-    background: #675e5e;
+    background: #dad0d0;
     width:800px;
-    padding:1em;
-      ;
-    
-  }
+         }
   
   .posted-on {
-    background: yellow;
+    background: rgb(185, 185, 49);
   }
   
   .right Text {
     text-align: left;
-    background: deepskyblue;
+    background: rgb(26, 161, 206);
   }
   
   
