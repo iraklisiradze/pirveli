@@ -1,6 +1,6 @@
 .pirvelia {
     display: flex;
-    align-items:center;       
+    align-items:flex-start;       
   }
   .name {
     background: #dad0d0;
